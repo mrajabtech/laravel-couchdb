@@ -1,5 +1,5 @@
 {
-  "name": "bnbwebexpertise/laravel-couchdb",
+  "name": "mrajabtech/laravel-couchdb",
   "description": "CouchDB Provider for the Laravel 5.5+ family. Includes doctrine/couchdb as a dependency in composer.json and sets up a Laravel and Eloquent-friendly Service Provider for you. Enjoy!",
   "authors": [
     {
